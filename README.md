@@ -1,4 +1,5 @@
 # FuckGigtalClassroom
+* 首先要骂一骂这个东西，信息课的时候让我非常不爽
 * Fuck极域电子教室，学生机房管理系统
 * 经过测试，学生机房管理系统hook了所有能hook的函数，经过hook OpenProgress拦截了Taskkill命令。
 * 传统驱动杀方式无效
